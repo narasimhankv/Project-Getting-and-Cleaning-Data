@@ -1,8 +1,10 @@
 # Project-Getting-and-Cleaning-Data
 
-# CodeBook.md
+The readme.md file aims to explain the files present in the main directory of this repo.
 
-Explain the execution of run_analysis.R
+# CodeBook.md explained
+
+* Explains the execution of run_analysis.R
 
 # run_analysis.R explained
 
